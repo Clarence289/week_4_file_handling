@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📁 Week_4: File Read & Write Challenge 🖋️
 
 ## 🚀 Objective
@@ -30,3 +31,6 @@ Create a Python program that reads from a text file, modifies the content, and w
 2. Run:
    ```bash
    python file_read_write.py
+=======
+# week_4_file_handling
+>>>>>>> 802f6caf776734ba5f50e9b23518d41ad157b3c1
