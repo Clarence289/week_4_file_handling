@@ -1,36 +1,27 @@
-<<<<<<< HEAD
-# 📁 Week_4: File Read & Write Challenge 🖋️
+# 📁 Week 4 – File Handling & Error Management in Python
 
-## 🚀 Objective
+![GitHub last commit](https://img.shields.io/github/last-commit/Clarence289/week_4_file_handling)
+![GitHub repo size](https://img.shields.io/github/repo-size/Clarence289/week_4_file_handling)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Create a Python program that reads from a text file, modifies the content, and writes it to a new file. Handle errors gracefully if the file doesn't exist.
-
----
-
-## 📂 Files Included
-
-- `file_read_write.py`: The main script.
-- `input.txt`: A sample file to read from.
-- `output.txt`: Generated file with modified content.
-- `README.md`: This instruction file.
+This project demonstrates how to read from and write to files in Python while implementing basic error handling and user prompts.
 
 ---
 
-## 🧪 Features
+## 🔧 Features
 
-- Reads content from a file line-by-line.
-- Converts all text to uppercase.
-- Writes modified content to `output.txt`.
-- Handles file not found and other errors using `try-except`.
+- ✅ Read content from a user-specified file
+- ✍️ Modify the content (e.g., convert text to uppercase)
+- 💾 Save modified content to a new output file
+- ❌ Handle file-not-found and I/O errors gracefully
 
 ---
 
-## ✅ How to Run
+## 🐍 How to Run
 
-1. Open terminal in the `Week_4` folder.
-2. Run:
-   ```bash
-   python file_read_write.py
-=======
-# week_4_file_handling
->>>>>>> 802f6caf776734ba5f50e9b23518d41ad157b3c1
+1. Make sure you have **Python 3.10+** installed.
+2. Clone the repository:
+
+```bash
+git clone https://github.com/Clarence289/week_4_file_handling.git
+cd week_4_file_handling
